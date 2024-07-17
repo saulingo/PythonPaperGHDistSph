@@ -12,7 +12,7 @@ authors:
     family-names: Rodríguez Martín
     email: saul92114@gmail.com
     affiliation: The Ohio State University
-repository-code: 'https://github.com/saulingo/PythonPaperGHDistSph'
+repository-code: 'https://github.com/saulingo/PythonPaperGHDistancesSpheres'
 abstract: >-
   Python code to computationally check some inequalities
   used in the proof that d(S^3,S^4) is arccos(-1/4)/2.
