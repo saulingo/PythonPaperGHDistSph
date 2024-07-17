@@ -7,7 +7,7 @@ import time
 n=3
 zeta = np.arccos(-1/(n+1))
 pi = np.pi
-d = 0.0001
+d = 0.001
 
 # Helper Functions
 def C(k):
