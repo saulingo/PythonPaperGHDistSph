@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Python Code d(S3,S4)'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Saúl
+    family-names: Rodríguez Martín
+    email: saul92114@gmail.com
+    affiliation: The Ohio State University
+repository-code: 'https://github.com/saulingo/PythonPaperGHDistSph'
+abstract: >-
+  Python code to computationally check some inequalities
+  used in the proof that d(S^3,S^4) is arccos(-1/4)/2.
+keywords:
+  - Gromov-Hausdorff
+  - Python
+  - Inequality
+license: MIT
+date-released: '2024-07-17'
