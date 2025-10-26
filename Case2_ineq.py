@@ -7,7 +7,7 @@ import time
 n=3
 zeta = np.arccos(-1/(n+1))
 pi = np.pi
-d = 0.001
+d = 0.00001
 
 def G(k, beta):
     term1 = (-1/(n+1)) * np.cos((pi - zeta) * beta)
